@@ -20,9 +20,10 @@ The coronavirus pandemic launched the idea that small main street shop owners ne
 ## Features
 <a name="features"></a>
 * Simple, easy to use, intuitive UI. 
-* Vendors and customers seperately log in. 
+* Vendors and customers separatelylog in. 
 * Vendors see all customers available to chat and customers see all vendors avaliable to chat. 
 * A Review blog where customers can blog about vendors or just about anything.
+* Deployed at <a href="https://powerful-mesa-31585.herokuapp.com/">Heroku<a>
 
 
 
@@ -53,13 +54,14 @@ npm start
     <li>Moment</li>
     <li>Passport</li>
     <li>JSON Web Tokens</li>
+    <li>Socket.io</li>
 </ul>
 
 
 ## Future
 <a name="future "></a>
 Currently capturing activity on main pages. We will use this to create a dashboard to record all a user activity on the site, chats, reviews, etc. To help monetize the vendors will get a certain number of their products listed for free. If they wish for more and have more exposure they can for a modest fee. 
-Plan to add a credit card and advertising platform. Create a social network where YellowChat users can comunicate with other. 
+Plan to add a credit card and advertising platform. Create a social network where YellowChat users can communicate with other. 
 
 
 
@@ -71,5 +73,7 @@ Plan to add a credit card and advertising platform. Create a social network wher
    <a href="https://github.com/adriansap" target ="_blank" ><li>Adrian Saporta</li></a>
    <a href="https://github.com/elenabaurkot" target ="_blank" ><li>Elena Baurkot</li></a>
  </ul>
+ 
+ 
 
 
